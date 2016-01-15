@@ -1,0 +1,28 @@
+name: 1000CreativeActs
+favicon: null
+layout_spectrum: 0.7118486843537539
+typography_spectrum: 0.5654468322172761
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5739842399489135
+  lightness: 0.3956913435831666
+  saturation: 0.6201863831374794
+  rhythmicContrast: 0.6269871946424246
+purpose: []
